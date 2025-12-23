@@ -12,16 +12,16 @@ This repository maintains the original passport index dataset and applies correc
 
 ### December 2025 - China Visa-Free Policy Expansion
 
-China implemented unilateral visa-free entry (30 days) for the following countries:
+China's unilateral visa exemption policy (30 days for ordinary passport holders):
 
-| Passport | Change | Effective Period | Source |
-|----------|--------|------------------|--------|
-| Argentina | visa required → 30 | June 1, 2025 - Dec 31, 2026 | [visaforchina.cn](https://www.visaforchina.cn/DEL3_EN/tongzhigonggao/327343163872251904.html) |
-| Brazil | visa required → 30 | June 1, 2025 - Dec 31, 2026 | [visaforchina.cn](https://www.visaforchina.cn/DEL3_EN/tongzhigonggao/327343163872251904.html) |
-| Chile | visa required → 30 | June 1, 2025 - Dec 31, 2026 | [visaforchina.cn](https://www.visaforchina.cn/DEL3_EN/tongzhigonggao/327343163872251904.html) |
-| Peru | visa required → 30 | June 1, 2025 - Dec 31, 2026 | [visaforchina.cn](https://www.visaforchina.cn/DEL3_EN/tongzhigonggao/327343163872251904.html) |
-| Uruguay | visa required → 30 | June 1, 2025 - Dec 31, 2026 | [visaforchina.cn](https://www.visaforchina.cn/DEL3_EN/tongzhigonggao/327343163872251904.html) |
-| Russia | visa required → 30 | Sept 15, 2025 - Sept 14, 2026 | [us.china-embassy.gov.cn](https://us.china-embassy.gov.cn/eng/lsfw/zj/notice/) |
+| Passport | Change | Source |
+|----------|--------|--------|
+| Argentina | visa required → 30 | [National Immigration Administration](https://en.nia.gov.cn/n147418/n147463/c183390/content.html) |
+| Brazil | visa required → 30 | [National Immigration Administration](https://en.nia.gov.cn/n147418/n147463/c183390/content.html) |
+| Chile | visa required → 30 | [National Immigration Administration](https://en.nia.gov.cn/n147418/n147463/c183390/content.html) |
+| Peru | visa required → 30 | [National Immigration Administration](https://en.nia.gov.cn/n147418/n147463/c183390/content.html) |
+| Uruguay | visa required → 30 | [National Immigration Administration](https://en.nia.gov.cn/n147418/n147463/c183390/content.html) |
+| Russia | visa required → 30 | [National Immigration Administration](https://en.nia.gov.cn/n147418/n147463/c183390/content.html) |
 
 ---
 
