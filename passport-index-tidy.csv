@@ -1227,7 +1227,7 @@ Argentina,Cape Verde,visa on arrival
 Argentina,Central African Republic,visa required
 Argentina,Chad,visa required
 Argentina,Chile,90
-Argentina,China,visa required
+Argentina,China,30
 Argentina,Colombia,90
 Argentina,Comoros,visa on arrival
 Argentina,Congo,visa required
@@ -4610,7 +4610,7 @@ Brazil,Cape Verde,30
 Brazil,Central African Republic,visa required
 Brazil,Chad,visa required
 Brazil,Chile,90
-Brazil,China,visa required
+Brazil,China,30
 Brazil,Colombia,90
 Brazil,Comoros,visa on arrival
 Brazil,Congo,visa required
@@ -6799,7 +6799,7 @@ Chile,Cape Verde,visa on arrival
 Chile,Central African Republic,visa required
 Chile,Chad,visa required
 Chile,Chile,-1
-Chile,China,visa required
+Chile,China,30
 Chile,Colombia,90
 Chile,Comoros,visa on arrival
 Chile,Congo,visa required
@@ -27694,7 +27694,7 @@ Peru,Cape Verde,visa on arrival
 Peru,Central African Republic,visa required
 Peru,Chad,visa required
 Peru,Chile,90
-Peru,China,visa required
+Peru,China,30
 Peru,Colombia,90
 Peru,Comoros,visa on arrival
 Peru,Congo,visa required
@@ -28888,7 +28888,7 @@ Russia,Cape Verde,60
 Russia,Central African Republic,visa required
 Russia,Chad,visa required
 Russia,Chile,90
-Russia,China,visa required
+Russia,China,30
 Russia,Colombia,90
 Russia,Comoros,visa on arrival
 Russia,Congo,visa required
@@ -37843,7 +37843,7 @@ Uruguay,Cape Verde,visa on arrival
 Uruguay,Central African Republic,visa required
 Uruguay,Chad,visa required
 Uruguay,Chile,90
-Uruguay,China,visa required
+Uruguay,China,30
 Uruguay,Colombia,90
 Uruguay,Comoros,visa on arrival
 Uruguay,Congo,visa required
