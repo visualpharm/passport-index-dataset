@@ -25,6 +25,36 @@ China's unilateral visa exemption policy (30 days for ordinary passport holders)
 
 ---
 
+## Official Sources
+
+### India (Indian passport holders)
+
+**Source:** [Ministry of External Affairs, Government of India - Visa Facility for Indian Nationals](https://www.mea.gov.in/VFFIN.htm) | [PDF Version](https://www.mea.gov.in/images/amb1/visa-facility-for-indian-nationals.pdf)
+
+The Ministry of External Affairs (MEA) maintains official information on visa facilities available to Indian passport holders (ordinary passports). Key highlights:
+
+**Visa-Free Countries (23 destinations):**
+- Bhutan - no limit
+- Maldives - 90 days
+- Nepal - no limit
+- Thailand - 60 days
+- Seychelles - 90 days
+- Malaysia - 30 days (extended until December 31, 2026)
+- Mauritius - 90 days
+- Barbados - 90 days
+- Dominica - 180 days
+- And others
+
+**E-Visa Countries (65 destinations):**
+Including Albania, Angola, Australia, Azerbaijan, Bahrain, Cambodia, Egypt, Georgia, Hong Kong SAR, Indonesia, Japan, Jordan, Kenya (ETA as of January 2024), Mongolia, Morocco, New Zealand, Oman, Russia, Singapore, South Africa, Sri Lanka, Turkey, UAE, Vietnam, and others.
+
+**Visa on Arrival Countries (46 destinations):**
+Including Cambodia, Ethiopia, Indonesia, Jordan, Laos, Madagascar, Mauritania, Mongolia, Myanmar, Palau, Qatar, Samoa, Seychelles, Sierra Leone, Sri Lanka, Tanzania, Timor-Leste, Tuvalu, Zimbabwe, and others.
+
+*Note: MEA recommends travelers cross-check information with the relevant Foreign Embassy/Consulate in India before travel.*
+
+---
+
 ## Original Dataset Documentation
 
 ### About datasets
